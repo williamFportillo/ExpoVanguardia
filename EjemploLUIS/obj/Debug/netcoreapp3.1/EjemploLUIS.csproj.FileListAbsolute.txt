@@ -1,0 +1,15 @@
+C:\Users\willi\source\repos\EjemploLUIS\EjemploLUIS\bin\Debug\netcoreapp3.1\EjemploLUIS.exe
+C:\Users\willi\source\repos\EjemploLUIS\EjemploLUIS\bin\Debug\netcoreapp3.1\EjemploLUIS.deps.json
+C:\Users\willi\source\repos\EjemploLUIS\EjemploLUIS\bin\Debug\netcoreapp3.1\EjemploLUIS.runtimeconfig.json
+C:\Users\willi\source\repos\EjemploLUIS\EjemploLUIS\bin\Debug\netcoreapp3.1\EjemploLUIS.runtimeconfig.dev.json
+C:\Users\willi\source\repos\EjemploLUIS\EjemploLUIS\bin\Debug\netcoreapp3.1\EjemploLUIS.dll
+C:\Users\willi\source\repos\EjemploLUIS\EjemploLUIS\bin\Debug\netcoreapp3.1\EjemploLUIS.pdb
+C:\Users\willi\source\repos\EjemploLUIS\EjemploLUIS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\willi\source\repos\EjemploLUIS\EjemploLUIS\obj\Debug\netcoreapp3.1\EjemploLUIS.csprojAssemblyReference.cache
+C:\Users\willi\source\repos\EjemploLUIS\EjemploLUIS\obj\Debug\netcoreapp3.1\EjemploLUIS.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\EjemploLUIS\EjemploLUIS\obj\Debug\netcoreapp3.1\EjemploLUIS.AssemblyInfo.cs
+C:\Users\willi\source\repos\EjemploLUIS\EjemploLUIS\obj\Debug\netcoreapp3.1\EjemploLUIS.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\EjemploLUIS\EjemploLUIS\obj\Debug\netcoreapp3.1\EjemploLUIS.csproj.CopyComplete
+C:\Users\willi\source\repos\EjemploLUIS\EjemploLUIS\obj\Debug\netcoreapp3.1\EjemploLUIS.dll
+C:\Users\willi\source\repos\EjemploLUIS\EjemploLUIS\obj\Debug\netcoreapp3.1\EjemploLUIS.pdb
+C:\Users\willi\source\repos\EjemploLUIS\EjemploLUIS\obj\Debug\netcoreapp3.1\EjemploLUIS.genruntimeconfig.cache
